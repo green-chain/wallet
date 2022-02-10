@@ -8,6 +8,6 @@ https://static.green-entrepreneurship.cc/download/beta-v.1.0.1.apk
 - Add new wallet
 - Import wallet from the private key
 - Wallet QR Code view
-- Transfer coin with short text messageg and gas fee control
+- Transfer coin with short text message and gas fee control
 - Transactions summary and detail view 
 - Support with Android 9 or higher
