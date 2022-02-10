@@ -11,3 +11,7 @@ https://static.green-entrepreneurship.co/download/GCWallet-v1.0.2.apk
 - Transfer coin with short text message and gas fee control
 - Transactions summary and detail view 
 - Support with Android 9 or higher
+### Features (Beta v.1.0.2)
+- Password rule
+- Warning info of private key
+- Change address QR img saving function
