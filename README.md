@@ -2,7 +2,7 @@
 
 ### Version Beta v.1.0.2
 Android Binary:
-https://static.green-entrepreneurship.co/download/GCWallet-v1.0.2.apk
+https://static.green-entrepreneurship.co/download/GCWallet-v1.0.21.apk
 
 ### Features (Beta v.1.0.1)
 - Add new wallet
