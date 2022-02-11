@@ -1,8 +1,17 @@
 # GCWallet
 
-### Version v.1.0.21
+### Version v.1.0.22
 Android Binary:
-https://static.green-entrepreneurship.co/download/GCWallet-v1.0.21.apk
+https://static.green-entrepreneurship.co/download/GCWallet-v.1.0.22.apk
+
+### Features (v.1.0.22)
+- Fix the bug of importing wallet
+- Fix the login status 
+
+### Features (v.1.0.21)
+- Password rule
+- Warning info of private key
+- Change address QR img saving function
 
 ### Features (v.1.0.1)
 - Add new wallet
@@ -11,7 +20,4 @@ https://static.green-entrepreneurship.co/download/GCWallet-v1.0.21.apk
 - Transfer coin with short text message and gas fee control
 - Transactions summary and detail view 
 - Support with Android 9 or higher
-### Features (v.1.0.21)
-- Password rule
-- Warning info of private key
-- Change address QR img saving function
+
