@@ -1,13 +1,13 @@
+
+### Version v.2.0.1
+Android Binary:
+https://static.green-entrepreneurship.co/download/GCWallet-v.2.0.1.apk
+
 # GCWallet
 
 ### Features (v.2.0.1)
--Change address from 0x****** to GC*******
-
+-Change address from 0x****** to GC***
 -Add multiple address 
-
-### Version v.1.0.22
-Android Binary:
-https://static.green-entrepreneurship.co/download/GCWallet-v.2.0.1.apk
 
 ### Features (v.1.0.22)
 - Fix the bug of importing wallet
