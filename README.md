@@ -1,14 +1,20 @@
 
-### Version v.2.0.1
+### Version v.2.5.5
 Android Binary:
-https://static.green-entrepreneurship.co/download/GCWallet-v.2.0.1.apk
+https://static.green-entrepreneurship.co/download/GCWallet-v.2.5.5.apk
 
 # GCWallet
 
-### Features (v.2.0.1)
--Change address from 0x****** to GC***
+### Features (v.2.5.5)
+- Fix the bug of gas fee
+- Change UI of some pages
+- Update the chain RPC
+- Update the transaction list page   
 
--Add multiple address 
+### Features (v.2.0.1)
+- Change address from 0x****** to GC***
+
+- Add multiple address 
 
 ### Features (v.1.0.22)
 - Fix the bug of importing wallet
