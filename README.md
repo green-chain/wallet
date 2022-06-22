@@ -1,5 +1,5 @@
 
-### Version v.2.5.5
+### Version v.2.6.6
 Android Binary:
 https://static.green-entrepreneurship.co/download/GCWallet-v.2.6.6.apk
 
