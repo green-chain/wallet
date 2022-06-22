@@ -1,9 +1,12 @@
 
 ### Version v.2.5.5
 Android Binary:
-https://static.green-entrepreneurship.co/download/GCWallet-v.2.5.5.apk
+https://static.green-entrepreneurship.co/download/GCWallet-v.2.6.6.apk
 
 # GCWallet
+### Features (v.2.6.6)
+- Fix the bug of update function
+- Fix the bug of creating a new address
 
 ### Features (v.2.5.5)
 - Fix the bug of gas fee
