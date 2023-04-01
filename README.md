@@ -1,12 +1,16 @@
 
-### Version v.3.0.1
-Android Binary:
+### test Version v.3.0.1
+Android test Binary:
 https://static.green-entrepreneurship.co/download/GCWallet-v.3.0.1.apk
 
+Android Binary:
+https://static.green-entrepreneurship.co/download/GCWallet-v.2.6.6.apk
+
 # GCWallet
-### Features (v.3.0.1)
+### Features (test v.3.0.1)
 - Changed the UI of whole wallet
 - Fix the bugs
+- This is a test version 
 
 # GCWallet
 ### Features (v.2.6.6)
