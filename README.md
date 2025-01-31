@@ -1,7 +1,7 @@
 
 ### Version v.4.0.5
 Android Binary:
-[https://static.green-entrepreneurship.co/download/GCWallet-v.2.6.6.apk](https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk )
+[https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk](https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk )
 
 # GCWallet
 ### Features (v.4.0.5)
