@@ -1,9 +1,12 @@
 
-### Version v.4.0.5
+### Version v.4.0.10
 Android Binary:
-[https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk](https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk )
+[https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.10.apk](https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.10.apk)
 
 # GCWallet
+### Features (v.4.0.10)
+- Fix the bug of GC sending 
+
 ### Features (v.4.0.5)
 - Fix the bug of GC
 - New UI of wallet
